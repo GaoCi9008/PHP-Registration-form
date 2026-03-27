@@ -1,4 +1,4 @@
-# PHP-register
+# PHP-Registration-form
 📁 项目文件说明
 1. index.php – 注册表单页面
 作用：显示用户注册表单，包含用户名、邮箱、密码、确认密码等输入字段。
